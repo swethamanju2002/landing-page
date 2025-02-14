@@ -1,4 +1,3 @@
-# landing-page
 # Study Abroad MBBS Landing Page
 
 ## Overview
